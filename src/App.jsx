@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
-//import { useLocalStorage } from "./useLocalStorage";
-import UseLocalStorage from "./UseLocalStorage";
+import { UseLocalStorage } from "./UseLocalStorage";
+//import UseLocalStorage from "./UseLocalStorage";
 import "lite-youtube-embed/src/lite-yt-embed.css";
 import "lite-youtube-embed";
 import "./index.css";
